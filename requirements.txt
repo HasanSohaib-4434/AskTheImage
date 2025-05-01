@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+Pillow
+whisper
+pyttsx3
+soundfile
